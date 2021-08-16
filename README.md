@@ -5,7 +5,7 @@
         <img src="https://komarev.com/ghpvc/?username=MohitKumarMandhre" alt="MohitKumarMandhre" />
     </a>
     <a href="https://github.com/MohitKumarMandhre">
-        <img height="20" src="https://img.shields.io/github/followers/MohitKumarMandhre?label=follow&logo=github&style=flat" />
+        <img height="20" src="https://img.shields.io/github/followers/MohitKumarMandhre?label=Followers&logo=github&style=flat" />
     </a>
     <a href="https://www.linkedin.com/in/mohit-kumar-mandhre-ab451b190/">
         <img height="20" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
