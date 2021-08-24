@@ -1,14 +1,14 @@
 <p align="center"> <h1 align="center"> MOHIT KUMAR MANDHRE </h1> </p>
 
 <p align="center">
+    <a href="https://www.linkedin.com/in/mohit-kumar-mandhre-ab451b190/">
+        <img height="20" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
+    </a>
     <a href="https://github.com/MohitKumarMandhre/MohitKumarMandhre">
         <img src="https://komarev.com/ghpvc/?username=MohitKumarMandhre" alt="MohitKumarMandhre" />
     </a>
     <a href="https://github.com/MohitKumarMandhre">
         <img height="20" src="https://img.shields.io/github/followers/MohitKumarMandhre?label=Followers&logo=github&style=flat" />
-    </a>
-    <a href="https://www.linkedin.com/in/mohit-kumar-mandhre-ab451b190/">
-        <img height="20" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
     </a>
 <!--     <a href="https://stackoverflow.com/users/12702900/MohitKumarMandhre">
         <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/12702900?label=StackOverflow&logo=stack-overflow&style=flat" />
