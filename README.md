@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/mohit-kumar-mandhre-ab451b190/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MOHIT KUMAR MANDHRE" height="20" width="20" /></a>
 </p>
 
-- 🔭 Hi, I’m @repl-mohit-kumar MOHIT KUMAR MANDHRE, associated with replicon as a Trainee-Software-Engineer .
+- 🔭 Hi, I’m @repl-mohit-kumar MOHIT KUMAR MANDHRE.
 - 2016 – 2020		Shri Shankaracharya Engineering College ( SSEC, Bhilai ) Computer Science Engineering .
 - 👀 To pursue post-graduate studies in Computer Science and Engineering, leading to a career in research.I’m also interested in computer vision and machine learning.
 - 🌱 I’m currently learning ...
